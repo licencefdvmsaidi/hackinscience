@@ -1,2 +1,0 @@
-# hackinscience
-cours Antoine
